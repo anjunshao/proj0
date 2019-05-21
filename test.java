@@ -1,3 +1,3 @@
 public class{
-  int A 
+  int A = 1;
 }
